@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609421219350",
+    "firebase_url": "https://fortnitestats-imr.firebaseio.com",
+    "project_id": "fortnitestats-imr",
+    "storage_bucket": "fortnitestats-imr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609421219350:android:6d5c59182c6cd6ef",
+        "android_client_info": {
+          "package_name": "com.example.fortnitestats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609421219350-o2ovr6s4a1t3ouv6hpatk7hgkpt4t967.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fortnitestats",
+            "certificate_hash": "5200f4698ee8f6cd9377d879406d8892012d7342"
+          }
+        },
+        {
+          "client_id": "609421219350-dfer0re83mknafekmv07c8ludpsms6va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDArspIbYoOjJh_aEmVKvDFHmoXH7WYzZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609421219350-dfer0re83mknafekmv07c8ludpsms6va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
